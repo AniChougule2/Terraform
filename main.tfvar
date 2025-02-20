@@ -1,0 +1,4 @@
+gcp_project="dev";
+os_pd_ssd_size="";
+gcp_region="";
+gcp_project=""; 
